@@ -13,10 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Radiant Horizons | Independent Living Skills Services",
+  title: "Radiant Horizons LLC | Independent Living Skills Services Sacramento",
   description:
-    "Radiant Horizons LLC provides person-centered Independent Living Skills (ILS) training for adults with developmental disabilities in Sacramento, Placer, Sutter, and El Dorado Counties.",
+    "Independent Living Skills (ILS) services supporting adults with developmental disabilities across Sacramento, Placer, Sutter, and El Dorado Counties. Radiant Horizons LLC.",
+  keywords: [
+    "Independent Living Skills Sacramento",
+    "ILS services Sacramento",
+    "Alta California Regional Center ILS provider",
+    "developmental disability support Sacramento",
+  ],
 };
+
 
 export default function RootLayout({
   children,
