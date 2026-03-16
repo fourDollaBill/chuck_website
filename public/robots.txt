@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://radianthorizons.com/sitemap.xml
+Sitemap: https://radianthorizonshome.net/sitemap.xml

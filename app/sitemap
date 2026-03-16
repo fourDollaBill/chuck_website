@@ -3,19 +3,19 @@ import { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://radianthorizons.com",
+      url: "https://radianthorizonshome.com",
       lastModified: new Date(),
     },
     {
-      url: "https://radianthorizons.com/#about",
+      url: "https://radianthorizonshome.com/#about",
       lastModified: new Date(),
     },
     {
-      url: "https://radianthorizons.com/#services",
+      url: "https://radianthorizonshome.com/#services",
       lastModified: new Date(),
     },
     {
-      url: "https://radianthorizons.com/#contact",
+      url: "https://radianthorizonshome.com/#contact",
       lastModified: new Date(),
     },
   ];
