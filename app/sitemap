@@ -1,0 +1,22 @@
+import { MetadataRoute } from "next";
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  return [
+    {
+      url: "https://radianthorizons.com",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://radianthorizons.com/#about",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://radianthorizons.com/#services",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://radianthorizons.com/#contact",
+      lastModified: new Date(),
+    },
+  ];
+}
